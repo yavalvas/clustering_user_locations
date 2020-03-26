@@ -1,3 +1,7 @@
+The final map with clusters is stored in GCloud, open link to render:
+[https://storage.cloud.google.com/clustering_demo/clustering_result.html](
+https://storage.cloud.google.com/clustering_demo/clustering_result.html)
+
 To open jupyter notebook code:
 
 1. Install Anaconda distribution with Jupyter Lab
