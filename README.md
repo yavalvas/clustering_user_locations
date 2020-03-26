@@ -31,7 +31,7 @@ Heatmap plotted by the API, some clusters are visible.
 - [Initial clustering attempt](initial_clustering_attempt.html)
 First attempt of clustering without taking into consideration speed of the user.
 
-- [Clustering result][clustering_result.html]
+- [Clustering result](clustering_result.html)
 Clustering with a trick searching for the local minima points for the speed.
 Points have different color depending on the support.
 Closest locations appear on hover and on click on the points, as well the support number for the cluster.
